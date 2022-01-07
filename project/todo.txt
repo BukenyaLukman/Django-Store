@@ -1,0 +1,16 @@
+Create Apps
+   DONE - products apps
+    - users apps
+    - checkout
+    - shopping cart
+    - admins
+    - Review
+- Products Apps
+     - product name
+     - price
+     - description
+     - discount/no_discount
+     - isOutOfStock
+     - Category
+Create Views
+    - Create Products home Page
